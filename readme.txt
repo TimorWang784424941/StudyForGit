@@ -3,6 +3,6 @@ Git is free software under the GPL
 Git has a mutable index called stage
 Git tracks changes of files
 test
-good job ,timor
+good job ,jazz
 Creating a new branch is quick with simple
 hello timor
